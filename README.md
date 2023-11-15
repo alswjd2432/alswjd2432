@@ -18,6 +18,9 @@
 #### 지금 현재..
 - 🤔 코딩테스트를 공부하고 있어요
 - 🌱 취업을 준비하고 있어요 - DataAnalyst, DataSciencetist를 준비하고 있어요
+
+#### 연락
+- 💬 alswjd2432@kaist.ac.kr
 <!--
 **alswjd2432/alswjd2432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
