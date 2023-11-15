@@ -7,8 +7,8 @@
 - 🦶 2023.06 ~ 2023.07 IBK 기업은행 산학연구
 
 #### 컴퓨터 언어
-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=blue"/>
-- <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=SQL&logoColor=blue"/>
+- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+- <img src="https://img.shields.io/badge/SQL-4499A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 #### 자격증 및 기타
 - 2023.07 빅데이터 분석기사
