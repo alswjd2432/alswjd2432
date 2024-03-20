@@ -14,10 +14,11 @@
 - 2023.07 빅데이터 분석기사
 - 2023.07 우수상(3등) by 서울대 데이터 사이언스 대학원 - 서울대 빅데이터 핀테크 전문과 과정
 - 2023.09 TOEIC SPEAKING INTERMEDIATE HIGH
+- 2024.03 정보처리기사 필기 합격
 
 #### 지금 현재..
 - 🤔 코딩테스트를 공부하고 있어요
-- 🌱 취업을 준비하고 있어요 - DataAnalyst, DataSciencetist를 준비하고 있어요
+- 🌱 취업을 준비하고 있어요 - DataAnalyst, DataScientist를 준비하고 있어요
 
 #### 연락
 - 💬 alswjd2432@kaist.ac.kr
