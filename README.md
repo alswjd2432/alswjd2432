@@ -24,11 +24,6 @@
  4. 사기 패턴 탐지 및 사기 의심거래 탐지 모델 개발
  5. (toy project) Langchain을 활용한 LLM 모델
 
-
-#### 지금 현재..
-- 🤔 코딩테스트를 공부하고 있어요
-- 🌱 취업을 준비하고 있어요 - DataAnalyst, DataScientist를 준비하고 있어요
-
 #### 연락
 - 💬 alswjd2432@kaist.ac.kr
 <!--
